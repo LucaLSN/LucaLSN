@@ -9,7 +9,8 @@
 <a href="https://www.discordapp.com/users/LucasSN#8386" alt="Discord" target="_blank">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </a>
-
+<!--
+![Snake animation](https://github.com/LucaLSN/LucaLSN/blob/output/github-contribution-grid-snake.svg)
 <!--
 **LucaLSN/LucaLSN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
