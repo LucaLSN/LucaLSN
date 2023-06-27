@@ -1,4 +1,4 @@
-## 🚩Bem-vindo(a) ao meu ambiente
+## 🚩Bem-vindo(a) ao meu ambiente GitHub
 - 🚧Ainda estou em desenvolvimento na área de Data Science e assuntos complementares sobre Segurança da Informação! 
 - 🔭Estudando a base: 
  <div style="display: inline_block"> 
@@ -10,8 +10,8 @@
  <br>
 <div>
   <a href="https://github.com/LucaLSN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaLSN&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact&langs_count=7&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaLSN&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact&langs_count=7&theme=dark"/>
 </div>
  <br> 
  
