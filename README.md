@@ -1,7 +1,7 @@
 ## ✨Bem-vindo(a) ao meu ambiente✨
 <i class="fa-brands fa-python fa-bounce"></i>
-- 🌱Ainda estou em desenvolvimento, ok?
-- 🔭Estudando:
+- 🌱Ainda estou em desenvolvimento na área de Data Science e assuntos complementares sobre Segurança da Informação! 
+- 🔭Estudando a base: 
  <div style="display: inline_block"> 
    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
    <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
