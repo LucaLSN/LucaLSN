@@ -27,6 +27,15 @@
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
   </a>
 </div>
+# Projeto CodeINova
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+## Co-fundador do projeto <br>
+Você pode conhecer melhor o projeto acessando-o abaixo:
+<div>
+<a href="https://www.linkedin.com/in/lucasdasilvanascimento" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</div>
 
 
  
