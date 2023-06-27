@@ -1,4 +1,5 @@
 ## ✨Bem-vindo(a) ao meu ambiente✨
+<i class="fa-brands fa-python fa-bounce"></i>
 - 🌱Ainda estou em desenvolvimento, ok?
 - 🔭Estudando:
  <div style="display: inline_block"> 
