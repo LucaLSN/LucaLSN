@@ -11,8 +11,8 @@
  <br>
 <div>
   <a href="https://github.com/LucaLSN">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaLSN&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucaLSN&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
  <br> 
  
@@ -23,8 +23,11 @@
   <a href="https://www.linkedin.com/in/lucasdasilvanascimento" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/lucasdasilvanascimento" alt="Linkedin" target="_blank">
+  <a href="https://www.medium.me/txtlucasssilva" alt="medium" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+  </a>
+ <a href="https://www.linkedin.com/in/lucasdasilvanascimento" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </div>
 
