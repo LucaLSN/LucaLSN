@@ -15,8 +15,6 @@
 </div>
  <br> 
  
-![snake gif](https://github.com/LucaLSN/LucaLSN/blob/output/github-contribution-grid-snake.svg)
- 
 ## Encontre-me em outros locais💬
 <div>
   <a href="https://www.linkedin.com/in/lucasdasilvanascimento" alt="Linkedin" target="_blank">
