@@ -2,10 +2,10 @@
 
 <h1>Quem sou eu :grinning: </h1>
 
-<p><strong>Sou estudante de Ciências da Computação e apaixonado por Python e com isso mergulhando na exploração de informações do nosso mundo.<br>Estou sempre em constante aprendizado para aprimorar minhas habilidades em análise e engenharia de dados.</strong></p>
+<p><strong>Sou estudante de Ciências da Computação e apaixonado por Python e com isso mergulhando na exploração de informações do nosso mundo.<br>Estou sempre em constante aprendizado para aprimorar minhas habilidades em análise e engenharia de dados. Gosto de ser comprometido com a resolução de problemas e a criação de soluções inovadoras. Além disso, faz parte da minha vida o compartilhar do conhecimento e colaborar com pessoas individualmente e em comunidade</strong></p>
 
 <h1>Linhas de Estudo</h1>
-<h3>Atualmente tenho focado meus estudos em Python e suas bibliotecas, MySQL e Business Intelligence! Meu foco geral é utilizar a criatividade para:</h3>
+<h3>Atualmente tenho focado meus estudos em Python e suas bibliotecas, MySQL e Business Intelligence! Meu foco geral é utilizar a criatividade para tirar melhor proveito da(o):</h3>
 <p>:pick:Extração</p>
 <p>:jigsaw:Limpeza</p>
 <p>:floppy_disk:Armazenamento</p>
@@ -28,7 +28,7 @@
 ---
 <h1> Contas e Links Úteis</h1>
 <code><a href="https://www.linkedin.com/in/lucasdasilvanascimento/"> <img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></code> </a>
-<code><a href="https://www.gmail.com/txtlucassilva/"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></code></a>
+<code><a href="https://mail.google.com/mail/txtlucassilva"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></code></a>
 <code><a href="https://medium.com/@txtlucassilva"><img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></code></a>
 
 ---
