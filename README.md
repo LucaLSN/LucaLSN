@@ -28,7 +28,7 @@
 ---
 <h1> Contas e Links Úteis</h1>
 <code><a href="https://www.linkedin.com/in/lucasdasilvanascimento/"> <img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></code> </a>
-<code><a href="https://mail.google.com/mail/txtlucassilva"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></code></a>
+<code><a href="mailto:txtlucassilva@gmail.com""><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></code></a>
 <code><a href="https://medium.com/@txtlucassilva"><img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></code></a>
 
 ---
