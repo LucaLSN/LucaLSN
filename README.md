@@ -1,41 +1,29 @@
-##  Olá, meu nome é <strong>{Lucas Silva}!</strong>
+<h1>Olá, meu nome é <strong>{Lucas Silva}!</strong></h1>
 
-<!DOCTYPE html>
-<html>
- <head>
-  
- </head>
- <body> 
-<h1>Quem sou eu :grinning: </h1>
+<h2>Quem sou eu :grinning: </h3>
 
-<p><strong>Sou estudante de Ciências da Computação e apaixonado por Python e com isso mergulhando na exploração de informações do nosso mundo.<br>Estou sempre em constante aprendizado para aprimorar minhas habilidades em T.I com foco na programação. Gosto de ser comprometido com a resolução de problemas e a criação de soluções inovadoras. Além disso, faz parte da minha vida o compartilhar do conhecimento e colaborar com pessoas individualmente e em comunidade</strong></p>
+<p><strong>Sou estudante de Ciências da Computação e apaixonado por tecnologia.<br>Estou sempre em constante aprendizado para aprimorar minhas habilidades em T.I com foco na programação. Gosto de ser comprometido com a resolução de problemas e a criação de soluções inovadoras. Além disso, faz parte da minha vida o compartilhar do conhecimento e colaborar com pessoas individualmente e em comunidade</strong></p>
 
-<h1>Linhas de Estudo</h1>
-<h3>Atualmente tenho focado meus estudos em Python, JavaScript, HTML, CSS, TypeScript e MySQL ! Meu foco geral é utilizar a criatividade para tirar melhor proveito de tudo!
-
-<h1>Confira Meus Projetos em Destaque</h1>
+<h2>Confira Meus Projetos em Destaque</h2>
 <h3>Em breve...</h3>
 
 
+<h2>Obtendo conhecimento em:</h2>
 
-
-<h1>Minhas Skills</h1>
-
-<code><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML"/></code>
-<code><img height="70" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS"/></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img height="32" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Python"/></code>
-<code><img height="32" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="Python"/></code>
+<code> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code>
+<code> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
+<code> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
+<code> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/></code>
+<code> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
+<code> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 
 ---
-<h1> Contas e Links Úteis</h1>
+<h2>Contas e Links Úteis</h2>
 <code><a href="https://www.linkedin.com/in/lucasdasilvanascimento/"> <img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></code> </a>
 <code><a href="mailto:txtlucassilva@gmail.com""><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></code></a>
 <code><a href="https://medium.com/@txtlucassilva"><img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></code></a>
 
 ---
+<h3>O que estou usando:</h3>
 
-<h2>Informações sobre minha conta GitHub</h2> 
-</body>
-</html>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LucaLSN&show_icons=true)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
