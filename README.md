@@ -2,7 +2,11 @@
 
 <h2>Quem sou eu :grinning: </h3>
 
-<p><strong>Sou estudante de Ciências da Computação e apaixonado por tecnologia.<br>Estou sempre em constante aprendizado para aprimorar minhas habilidades em T.I com foco na programação. Gosto de ser comprometido com a resolução de problemas e a criação de soluções inovadoras. Além disso, faz parte da minha vida o compartilhar do conhecimento e colaborar com pessoas individualmente e em comunidade</strong></p>
+<p><strong>Sou um entusiasta de Tecnologia da Informação com foco em Segurança da Informação, conformidade com a LGPD, programação em Python e administração de redes. Atualmente, estou aprofundando meus conhecimentos nessas áreas, buscando sempre as melhores práticas e inovações para garantir a segurança e integridade dos dados.Ao longo dos meus estudos, tenho desenvolvido habilidades sólidas em:
+  Segurança da Informação: Implementação de medidas de proteção contra ameaças cibernéticas, análise de vulnerabilidades e práticas de segurança de rede.
+  LGPD e Conformidade: Conhecimento das regulamentações de proteção de dados, com foco na Lei Geral de Proteção de Dados (LGPD) e seu impacto nas organizações.
+  Programação em Python: Desenvolvimento de scripts e aplicações para automação de tarefas, análise de dados e implementação de soluções de segurança.
+  Redes de Computadores: Configuração, gerenciamento e monitoramento de redes para garantir um ambiente seguro e eficiente.</strong></p>
 
 <h2>Confira Meus Projetos em Destaque</h2>
 <h3>Em breve...</h3>
@@ -10,11 +14,6 @@
 
 <h2>Obtendo conhecimento em:</h2>
 
-<code> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/></code>
-<code> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/></code>
-<code> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/></code>
-<code> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJs"/></code>
-<code> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></code>
 <code> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
 
 ---
