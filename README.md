@@ -2,11 +2,11 @@
 
 <h2>Quem sou eu :grinning: </h3>
 
-<p><strong>Sou um entusiasta de Tecnologia da Informação com foco em Segurança da Informação, conformidade com a LGPD, programação em Python e administração de redes. Atualmente, estou aprofundando meus conhecimentos nessas áreas, buscando sempre as melhores práticas e inovações para garantir a segurança e integridade dos dados.Ao longo dos meus estudos, tenho desenvolvido habilidades sólidas em:
-  Segurança da Informação: Implementação de medidas de proteção contra ameaças cibernéticas, análise de vulnerabilidades e práticas de segurança de rede.
-  LGPD e Conformidade: Conhecimento das regulamentações de proteção de dados, com foco na Lei Geral de Proteção de Dados (LGPD) e seu impacto nas organizações.
-  Programação em Python: Desenvolvimento de scripts e aplicações para automação de tarefas, análise de dados e implementação de soluções de segurança.
-  Redes de Computadores: Configuração, gerenciamento e monitoramento de redes para garantir um ambiente seguro e eficiente.</strong></p>
+<p>Sou um entusiasta de Tecnologia da Informação com foco em Segurança da Informação, conformidade com a LGPD, programação em Python e administração de redes. Atualmente, estou aprofundando meus conhecimentos nessas áreas, buscando sempre as melhores práticas e inovações para garantir a segurança e integridade dos dados.Ao longo dos meus estudos, tenho desenvolvido habilidades sólidas em:<br><br>
+  <strong>Segurança da Informação: Implementação de medidas de proteção contra ameaças cibernéticas, análise de vulnerabilidades e práticas de segurança de rede.</strong>
+  <strong>LGPD e Conformidade: Conhecimento das regulamentações de proteção de dados, com foco na Lei Geral de Proteção de Dados (LGPD) e seu impacto nas organizações.</strong>
+  <strong>Programação em Python: Desenvolvimento de scripts e aplicações para automação de tarefas, análise de dados e implementação de soluções de segurança.</strong>
+  <strong>Redes de Computadores: Configuração, gerenciamento e monitoramento de redes para garantir um ambiente seguro e eficiente.</strong></p>
 
 <h2>Confira Meus Projetos em Destaque</h2>
 <h3>Em breve...</h3>
