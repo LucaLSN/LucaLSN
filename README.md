@@ -26,3 +26,7 @@
 <h3>O que estou usando:</h3>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+<h2> TryHackMe profile </h2>
+<code> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5358599" style='border:none;'></iframe> </code>
