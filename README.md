@@ -29,4 +29,5 @@
 
 ---
 <h2> TryHackMe profile </h2>
-<code> <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5358599" style='border:none;'></iframe> </code>
+<code> <img src="https://tryhackme-badges.s3.amazonaws.com/lsbrthm.png" alt="Your Image Badge" />
+ <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5358599" style='border:none;'></iframe> </code>
