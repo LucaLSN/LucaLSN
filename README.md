@@ -1,4 +1,5 @@
 <h1>Olá, meu nome é <strong>{Lucas Silva}!</strong></h1>
+<img src="https://tryhackme-badges.s3.amazonaws.com/lsbrthm.png" alt="Your Image Badge" />
 
 <h2>Quem sou eu :grinning: </h3>
 
@@ -12,22 +13,3 @@
 <h3>Em breve...</h3>
 
 
-<h2>Obtendo conhecimento em:</h2>
-
-<code> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></code>
-
----
-<h2>Contas e Links Úteis</h2>
-<code><a href="https://www.linkedin.com/in/lucasdasilvanascimento/"> <img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></code> </a>
-<code><a href="mailto:txtlucassilva@gmail.com""><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></code></a>
-<code><a href="https://medium.com/@txtlucassilva"><img height="32" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></code></a>
-
----
-<h3>O que estou usando:</h3>
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<h2> TryHackMe profile </h2>
-<code> <img src="https://tryhackme-badges.s3.amazonaws.com/lsbrthm.png" alt="Your Image Badge" />
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=5358599" style='border:none;'></iframe> </code>
