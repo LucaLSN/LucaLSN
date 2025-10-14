@@ -1,0 +1,28 @@
+name: Atualizar TryHackMe Badge
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # Executa todo dia à meia-noite UTC
+  workflow_dispatch:       # Permite rodar manualmente
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+    name: Baixar e atualizar badge do TryHackMe
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Atualizar TryHackMe badge
+        uses: p4p1/tryhackme-badge-workflow@main
+        with:
+          username: "lsbrthm"
+
+      - name: Fazer commit e push da imagem atualizada
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Atualiza TryHackMe badge automaticamente"
+          git push
