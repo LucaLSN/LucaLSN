@@ -1,15 +1,1 @@
-<h1>Olá, meu nome é <strong>{Lucas Silva}!</strong></h1>
-<img src="https://tryhackme-badges.s3.amazonaws.com/lsbrthm.png" alt="Your Image Badge" />
-
-<h2>Quem sou eu :grinning: </h3>
-
-<p>Sou um entusiasta de Tecnologia da Informação com foco em Segurança da Informação, conformidade com a LGPD, programação em Python e administração de redes. Atualmente, estou aprofundando meus conhecimentos nessas áreas, buscando sempre as melhores práticas e inovações para garantir a segurança e integridade dos dados.Ao longo dos meus estudos, tenho desenvolvido habilidades sólidas em:<br><br>
-  <strong>Segurança da Informação:</strong> Implementação de medidas de proteção contra ameaças cibernéticas, análise de vulnerabilidades e práticas de segurança de rede.<br>
-  <strong>LGPD e Conformidade:</strong> Conhecimento das regulamentações de proteção de dados, com foco na Lei Geral de Proteção de Dados (LGPD) e seu impacto nas organizações.<br>
-  <strong>Programação em Python:</strong> Desenvolvimento de scripts e aplicações para automação de tarefas, análise de dados e implementação de soluções de segurança.<br>
-  <strong>Redes de Computadores:</strong> Configuração, gerenciamento e monitoramento de redes para garantir um ambiente seguro e eficiente.</p>
-
-<h2>Confira Meus Projetos em Destaque</h2>
-<h3>Em breve...</h3>
-
 
