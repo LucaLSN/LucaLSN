@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=%3E_%20Ol%C3%A1%2C+me+chamo+Lucas;-%20Seja+bem-vindo(a)!&background=000000&border=1F1F1F" alt="terminal-typing"/>
-
-</div>
 
 
 <div align="center">
