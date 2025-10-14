@@ -1,4 +1,40 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=2000&color=00FF66&center=true&vCenter=true&width=800&height=80&lines=%3E_%20Ol%C3%A1%2C+me+chamo+Lucas;-%20Seja+bem-vindo(a)!&background=000000&border=1F1F1F" alt="terminal-typing"/>
+
+</div>
+
+
+<div align="center">
+<p style="font-family:monospace; font-size:14px; margin:6px 0;">
+<code>┌─[user@LucaLSN]─[~]</code>
+<code>└──╼ echo "mapeando possibilidades..."</code>
+</p>
+
+<table cellpadding="8" cellspacing="0" width="720" style="border:1px solid #0f0f0f; background:#010101; color:#c7f9cc; border-radius:12px;">
+  <tr>
+    <td width="60%" valign="top" style="font-family:monospace;">
+      <pre style="margin:0; padding:8px; background:transparent; color:#9ef08a;">
+
+foco: Segurança da Informação — engenharia de segurança • redes • compliance
+status: aprendendo, analisando (apenas lab), compartilhando
+</pre>
+    </td>
+    <td width="40%" valign="top" style="text-align:center;">
+      <!-- Badges sutis -->
+      <img alt="badge" src="https://img.shields.io/badge/OS-Linux-2b2b2b?logo=linux&logoColor=white&style=flat-square" />
+      <br/>
+      <img alt="badge" src="https://img.shields.io/badge/Role-Cybersecurity-111827?logo=metasploit&style=flat-square" />
+      <br/>
+      <img alt="badge" src="https://img.shields.io/badge/Contact-@LucasLSN-0f172a?logo=github&style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+</div>
+ 
 ## ⚙️ Stack e Ferramentas  
 ![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot%20Security-1e1e1e?style=for-the-badge&logo=parrot-security&logoColor=00b2ff)
