@@ -11,8 +11,9 @@ Atualmente, estudo e compartilho conhecimento sobre segurança ofensiva e defens
 - 🧩 Interesse especial em **Threat Intelligence**, **Análise de Logs**, **Pentest** e **LGPD Compliance**.  
 - Top 5% THM
 <a href="https://tryhackme.com/p/lsbrthm">
-  <img src="https://raw.githubusercontent.com/lsbrthm/.github/main/assets/tryhackme-badge.png" width="300" alt="TryHackMe Badge"/>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/lsbrthm.png" alt="Your Image Badge" />
 </a>
+
 
 
 ---
