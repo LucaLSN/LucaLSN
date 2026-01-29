@@ -1,54 +1,92 @@
+# 👋 Olá, eu sou o Lucas Nascimento
 
-
-
-<div align="center">
-<p style="font-family:monospace; font-size:14px; margin:6px 0;">
-<code>┌─[user@LucaLSN]─[~]</code>
-<code>└──╼ echo "mapeando possibilidades..."</code>
-</p>
-
-<table cellpadding="8" cellspacing="0" width="720" style="border:1px solid #0f0f0f; background:#010101; color:#c7f9cc; border-radius:12px;">
-  <tr>
-    <td width="60%" valign="top" style="font-family:monospace;">
-      <pre style="margin:0; padding:8px; background:transparent; color:#9ef08a;">
-
-foco: Segurança da Informação — engenharia de segurança • redes • compliance
-status: aprendendo, analisando (apenas lab), compartilhando
-</pre>
-    </td>
-    <td width="40%" valign="top" style="text-align:center;">
-      <!-- Badges sutis -->
-      <img alt="badge" src="https://img.shields.io/badge/OS-Linux-2b2b2b?logo=linux&logoColor=white&style=flat-square" />
-      <br/>
-      <img alt="badge" src="https://img.shields.io/badge/Role-Cybersecurity-111827?logo=metasploit&style=flat-square" />
-      <br/>
-      <img alt="badge" src="https://img.shields.io/badge/Contact-@LucasLSN-0f172a?logo=github&style=flat-square" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-</div>
- 
-## ⚙️ Stack e Ferramentas  
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot%20Security-1e1e1e?style=for-the-badge&logo=parrot-security&logoColor=00b2ff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+💻 **Entusiasta de tecnologia, automação e dados** | 🐧 Linux | 🐍 Python | 📊 Excel/VBA | ⚙️ Processos & Sistemas
 
 ---
 
-## 📈 Estatísticas do GitHub  
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucaLSN&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaLSN&layout=compact&theme=tokyonight)
+## 🚀 Sobre mim
+
+Sou uma pessoa orientada a **processos, eficiência e aprendizado contínuo**. Gosto de entender como as coisas funcionam por baixo do capô — seja um sistema operacional, um fluxo fiscal/financeiro ou um script que automatiza tarefas repetitivas.
+
+Atualmente, foco em:
+
+* **Automação de rotinas** administrativas e operacionais
+* **Análise lógica de problemas** e melhoria de processos
+* **Tecnologia aplicada ao mundo real** (especialmente fiscal, financeiro e corporativo)
 
 ---
 
-## 📫 Onde me encontrar  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucasdasilvanascimento/)
-[![Email](https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:txtlucassilva@gmail.com)
+## 🧠 Principais habilidades
 
+* **Programação & Automação**
+
+  * Python (fundamentos, scripts, lógica)
+  * VBA para Excel (macros, automações, análise de dados)
+
+* **Ferramentas & Sistemas**
+
+  * Linux (Ubuntu/Debian)
+  * Docker (conceitos, containers, serviços)
+  * Git & GitHub
+
+* **Dados & Negócios**
+
+  * Excel avançado
+  * Lógica financeira e fiscal
+  * Estruturação de regras, validações e fluxos
+
+---
+
+## 📂 O que você vai encontrar aqui
+
+Neste GitHub você verá projetos voltados para:
+
+* 📌 **Automação de tarefas**
+* 📌 **Scripts utilitários**
+* 📌 **Estudos práticos de programação**
+* 📌 **Modelos e lógicas aplicáveis ao dia a dia corporativo**
+
+A maioria dos repositórios nasce de **problemas reais**, não apenas de teoria.
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 🔹 Principais
+
+![Python](https://img.shields.io/badge/Python-333?style=flat\&logo=python)
+![Linux](https://img.shields.io/badge/Linux-333?style=flat\&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-333?style=flat\&logo=docker)
+![Excel](https://img.shields.io/badge/Excel-333?style=flat\&logo=microsoft-excel)
+![VBA](https://img.shields.io/badge/VBA-333?style=flat\&logo=microsoft)
+![Git](https://img.shields.io/badge/Git-333?style=flat\&logo=git)
+
+### 🔸 Conhecimentos básicos / em desenvolvimento
+
+![SQL](https://img.shields.io/badge/SQL-333?style=flat\&logo=postgresql)
+![Power BI](https://img.shields.io/badge/Power%20BI-333?style=flat\&logo=powerbi)
+![Bash](https://img.shields.io/badge/Bash-333?style=flat\&logo=gnu-bash)
+![APIs](https://img.shields.io/badge/APIs%20REST-333?style=flat\&logo=fastapi)
+![Redes](https://img.shields.io/badge/Redes-333?style=flat\&logo=cisco)
+![Fiscal](https://img.shields.io/badge/Fiscal%20%26%20ERP-333?style=flat\&logo=oracle)
+
+---
+
+## 📈 Filosofia de aprendizado
+
+> *"Não basta saber usar a ferramenta — é preciso entender o porquê das decisões."*
+
+Aprendo melhor **testando, errando e refinando**. Prefiro soluções simples, claras e sustentáveis a curto e longo prazo.
+
+---
+
+## 📫 Contato
+
+* 💼 GitHub: você já está aqui 😉
+* 📧 Aberto a conexões e colaborações
+
+---
+
+⭐ Se algum projeto te ajudar, fique à vontade para deixar uma estrela.
+
+Obrigado por visitar meu perfil!
