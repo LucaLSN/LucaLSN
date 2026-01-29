@@ -6,15 +6,7 @@
 
 ## 🚀 Sobre mim
 
-Sou uma pessoa orientada a **processos, eficiência e aprendizado contínuo**. Gosto de entender como as coisas funcionam por baixo do capô — seja um sistema operacional, um fluxo fiscal/financeiro ou um script que automatiza tarefas repetitivas.
-
-Atualmente, foco em:
-
-* **Automação de rotinas** administrativas e operacionais
-* **Análise lógica de problemas** e melhoria de processos
-* **Tecnologia aplicada ao mundo real** (especialmente fiscal, financeiro e corporativo)
-
----
+Sou uma pessoa orientada a **processos, eficiência e aprendizado contínuo**. Gosto de entender como as coisas funcionam por baixo do capô.
 
 ## 🧠 Principais habilidades
 
