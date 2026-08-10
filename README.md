@@ -2,7 +2,7 @@
 
 # Lucas Nascimento
 
-🧩 **Segurança • Automação • Sistemas • Curiosidade**
+🧩 **IA • Automação • Sistemas • Curiosidade**
 
 </div>
 <div align="center">
