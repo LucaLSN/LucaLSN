@@ -29,12 +29,6 @@
   ### — Métricas e Conquistas —
 
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=LucaLSN&theme=tokyonight&no-frame=true&margin-w=15" alt="Troféus" />
-    </a>
-  </p>
-
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLSN&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="55%" />
   </p>
 
