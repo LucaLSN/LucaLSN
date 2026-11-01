@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👀 Bem-vindo(a) ao meu painel</h1>
+  <h1>👀 Bem-vindo(a)</h1>
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=1500&color=8892B0&center=true&vCenter=true&width=700&lines=P%C3%B3s-graduado+em+Ci%C3%AAncia+de+Dados+e+IA;Modelagem+Preditiva+e+Automa%C3%A7%C3%A3o+com+Python;ETL,+An%C3%A1lise+de+Dados+e+Solu%C3%A7%C3%B5es+Financeiras;Transformando+dados+complexos+em+resultados" alt="Typing SVG" />
