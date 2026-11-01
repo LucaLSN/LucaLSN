@@ -1,49 +1,59 @@
 <div align="center">
-  
-  # Olá! Eu sou Lucas da Silva Nascimento 👋
-  
+
+  <h1>Lucas da Silva Nascimento</h1>
+  <p><i>Analista Financeiro | Ciência de Dados & IA | Engenharia de Dados</i></p>
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=500&size=30&duration=1500&pause=1500&color=FFD700&center=true&vCenter=true&width=700&lines=P%C3%B3s-graduado+em+Ci%C3%AAncia+de+Dados+e+IA;Desenvolvedor+Python+e+Automa%C3%A7%C3%B5es;Machine+Learning+e+Solu%C3%A7%C3%B5es+Financeiras;Transformando+Dados+em+Resultados" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2000&pause=1500&color=8892B0&center=true&vCenter=true&width=700&lines=P%C3%B3s-graduado+em+Ci%C3%AAncia+de+Dados+e+IA;Modelagem+Preditiva+e+Automa%C3%A7%C3%A3o+com+Python;ETL,+An%C3%A1lise+de+Dados+e+Solu%C3%A7%C3%B5es+Financeiras;Transformando+dados+complexos+em+resultados" alt="Typing SVG" />
   </a>
 
   <br><br>
 
-  ### — Stack & Ferramentas —
+  <h3>🛠️ Stack & Ferramentas</h3>
 
   <p>
-    <!-- Paleta: Azul e Roxo -->
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Pandas-4B0082?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-5C5C5C?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Jupyter-FFD700?style=for-the-badge&logo=jupyter&logoColor=black" alt="Jupyter" />
+    <!-- Linguagens e Data Science -->
+    <img src="https://img.shields.io/badge/Python-151515?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Pandas-151515?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-151515?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-151515?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+    <img src="https://img.shields.io/badge/Jupyter-151515?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/PostgreSQL-151515?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   </p>
-  <p>
-    <!-- Paleta: Amarelo, Azul e Cinza -->
-    <img src="https://img.shields.io/badge/Power_BI-FFD700?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-    <img src="https://img.shields.io/badge/Excel-3776AB?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-    <img src="https://img.shields.io/badge/Oracle-5C5C5C?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Fusion Cloud" />
-  </p>
-
-  <br><br>
-
-  ### — Métricas e Conquistas —
 
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLSN&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="55%" />
+    <!-- Finance, BI e Bancos de Dados -->
+    <img src="https://img.shields.io/badge/Power_BI-151515?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
+    <img src="https://img.shields.io/badge/Excel-151515?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+    <img src="https://img.shields.io/badge/Oracle_Cloud-151515?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+   
   </p>
 
-  <br><br>
+  <br>
 
-  ### — Mapa de Contribuições —
+  <h3>📊 Métricas e Atividade</h3>
 
+  <table align="center" width="100%" style="border: none; background-color: transparent;">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucaLSN&background=00000000&ring=5C6B73&fire=5C6B73&currStreakLabel=8892B0&sideLabels=8892B0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=88949E&border=00000000" width="100%" alt="GitHub Streak" />
+      </td>
+      <td width="33%" align="center" valign="top">
+        <img src="https://github-stats-extended.vercel.app/api?username=LucaLSN&show_icons=true&include_all_commits=true&bg_color=00000000&title_color=8892B0&text_color=C9D1D9&icon_color=5C6B73&border_color=00000000&ring_color=5C6B73&custom_title=Activity%20Overview" width="100%" alt="Activity Overview" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaLSN/LucaLSN/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucaLSN/LucaLSN/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucaLSN/LucaLSN/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/LucaLSN/LucaLSN/output/github-contribution-grid-snake.svg">
   </picture>
 
-  <br><br><br>
+  <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=LucaLSN&label=VISUALIZAÇÕES&color=5C5C5C&style=flat" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=LucaLSN&label=VISITAS&color=252525&style=flat-square" alt="Contador de Visitas" />
 
 </div>
